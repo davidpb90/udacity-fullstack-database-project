@@ -16,3 +16,4 @@ build/
 .idea
 .vscode
 .git
+.python-version
