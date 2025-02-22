@@ -1,0 +1,16 @@
+migrations/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.idea
+.vscode
+.git
